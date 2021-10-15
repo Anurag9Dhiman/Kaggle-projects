@@ -1,5 +1,4 @@
 # Kaggle-projects
- This repo contains 4 different projects. Built various machine learning models for Kaggle competitions. Also carried out Exploratory Data Analysis, Data Cleaning, Data visualization, Data Munging, Feature Selection etc.
  
  " Author : Anurag Dhiman "
  
